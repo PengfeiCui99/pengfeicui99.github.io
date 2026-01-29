@@ -11,6 +11,8 @@ venue: "Accident Analysis & Prevention"
 date: 2025-01-06
 year: 2025
 status: "published"
+author_class: "corresponding"
+
 method: "Spatial Lag Model (SLM) & Geographically Weighted Regression (GWR)"
 data: "New York City Crash Data (2021-2023), Social Vulnerability Index (SVI), Urban Road Network Measures"
 objects: "Spatial Inequity in Traffic Injury Rates"

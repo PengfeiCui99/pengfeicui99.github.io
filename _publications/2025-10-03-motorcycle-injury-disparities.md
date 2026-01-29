@@ -11,6 +11,8 @@ venue: "Transportmetrica A: Transport Science"
 date: 2025-10-03
 year: 2025
 status: "published"
+author_class: "first"
+
 method: "Partially Temporally Constrained Random-Parameters Logit (RPL) Model"
 data: "Florida Motorcycle Crash Data (2020-2022)"
 objects: "Motorcycle Injury Severity"

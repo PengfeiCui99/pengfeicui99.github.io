@@ -12,6 +12,8 @@ venue: "Transportation Research Part C: Emerging Technologies"
 date: 2025-10-01
 year: 2025
 status: "published"
+author_class: "first"
+
 method: "Machine Learning"
 data: "Streetview Data"
 objects: "Crash Frequency Modeling; Spatial Modeling"

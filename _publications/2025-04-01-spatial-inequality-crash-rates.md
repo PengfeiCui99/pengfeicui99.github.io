@@ -11,6 +11,8 @@ venue: "Transport Policy"
 date: 2025-04-01
 year: 2025
 status: "published"
+author_class: "first"
+
 method: "Interpretable Machine Learning (XGBoost, SHAP) & Spatial Statistical Models"
 data: "FDOT Crash Records, U.S. Census Bureau Data"
 objects: "Spatial Inequality & Crash Rate Analysis"
