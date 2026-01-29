@@ -2,6 +2,7 @@
 title: "Multiscale Geographical Random Forest: A Novel Spatial ML Approach for Traffic Safety Modeling Integrating Street-View Semantic Visual Features"
 collection: publications
 category: journal
+author_class: first
 permalink: /publication/2025-10-01-MGRF-traffic-safety-modeling-streetview
 
 header:
@@ -12,7 +13,7 @@ venue: "Transportation Research Part C: Emerging Technologies"
 date: 2025-10-01
 year: 2025
 status: "published"
-author_class: "first"
+
 
 method: "Machine Learning"
 data: "Streetview Data"
