@@ -78,8 +78,8 @@ I currently serve as a reviewer for SCI/SSCI academic journals including *Nature
           <span style="display: inline-block; padding: 0.2em 0.6em; border-radius: 12px; font-size: 0.75em; font-weight: 500; background-color: #e3f2fd; color: #1976d2; border: 1px solid #90caf9;">Machine Learning</span>
         </div>
     <div style="flex-shrink: 0; width: 280px;">
-      <a href="/publication/2025-09-01-CV-spatialML-intersection-crash">
-        <img src="PengfeiCui99/images/publications/2025-10-01-MGRF-traffic-safety-modeling-streetview.jpg" alt="MGRF" style="width: 100%; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+      <a href="/publications/2025-10-01-MGRF-traffic-safety-modeling-streetview">
+        <img src="/images/publications/2025-10-01-MGRF-traffic-safety-modeling-streetview.jpg" alt="MGRF" style="width: 100%; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
       </a>
     </div>
       </div>
@@ -104,6 +104,12 @@ I currently serve as a reviewer for SCI/SSCI academic journals including *Nature
           <span style="display: inline-block; padding: 0.2em 0.6em; border-radius: 12px; font-size: 0.75em; font-weight: 500; background-color: #e8f5e9; color: #388e3c; border: 1px solid #a5d6a7;">Spatiotemporal Modeling</span>
           <span style="display: inline-block; padding: 0.2em 0.6em; border-radius: 12px; font-size: 0.75em; font-weight: 500; background-color: #e3f2fd; color: #1976d2; border: 1px solid #90caf9;">Deep Learning</span>
         </div>
+        <div style="flex-shrink: 0; width: 280px;">
+          <a href="/publications/2024-03-18-urban-traffic-accident-forecasting">
+            <img src="/images/publications/2024-03-18-urban-traffic-accident-forecasting.jpg" alt="MGRF" style="width: 100%; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          </a>
+        </div>
+
       </div>
     </div>
   </div>
