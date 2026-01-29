@@ -14,20 +14,20 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
     
   - title: "Publications"
     url: /publications/
     
-  - title: "Posts"
-    url: /posts/
+  # - title: "Posts"
+  #   url: /posts/
     
-  - title: "Habits"
-    url: /habits/
+  # - title: "Habits"
+  #   url: /habits/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/

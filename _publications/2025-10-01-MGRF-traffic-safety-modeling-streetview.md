@@ -7,7 +7,7 @@ permalink: /publication/2025-10-01-MGRF-traffic-safety-modeling-streetview
 header:
   teaser: publications/2025-10-01-MGRF-traffic-safety-modeling-streetview.jpg
 
-authors: "Pengfei Cui, Mohamed Abdel-Aty, <strong>Lei Han</strong>*, Xiaobao Yang"
+authors: "<strong>Pengfei Cui<strong>, Mohamed Abdel-Aty, Lei Han*, Xiaobao Yang"
 venue: "Transportation Research Part C: Emerging Technologies"
 date: 2025-10-01
 year: 2025

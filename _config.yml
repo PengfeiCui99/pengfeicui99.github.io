@@ -9,37 +9,37 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lei Han | Transportation Engineering"
+title                    : "Pengfei Cui | Intelligent Transportation "
 title_separator          : "|"
-name                     : "Lei Han"
-description              : "Academic homepage of Lei Han, focusing on Transportation Engineering, Connected Vehicle Data-driven Traffic Analysis, and Intelligent Transportation System."
-url                      : "https://ucfleihan.github.io"
+name                     : "Pengfei Cui"
+description              : "Academic homepage of Pengfei Cui, focusing on Transportation Engineering, Connected Vehicle Data-driven Traffic Analysis, and Intelligent Transportation System."
+url                      : "https://pengfeicui99.github.io"
 baseurl                  : ""
-repository               : "UCFLeiHan/UCFLeiHan.github.io"
+repository               : "PengfeiCui99/PengfeiCui99.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LeiHan.jpg"
-  name             : "Lei Han"
+  avatar           : "Pengfei Cui.jpg"
+  name             : "Pengfei Cui"
   pronouns         : "He/Him"  
-  bio              : "PhD candidate in Civil Engineering at the University of Central Florida."
-  location         : "Orlando, Florida, USA"
-  employer         : "University of Central Florida"
-  email            : "lei.han@ucf.edu" 
+  bio              : "Faculty at Beijing University of Technology."
+  location         : "Beijing, China"
+  employer         : "Beijing University of Technology"
+  email            : "pengfeicui@bjut.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Gm1QlW0AAAAJ"
-  orcid            : "https://orcid.org/0000-0002-2976-0762"
+  googlescholar    : "https://scholar.google.com/citations?user=4EGD9vsAAAAJ&hl=en&oi=ao"
+  orcid            : "https://orcid.org/0000-0003-3979-2415"
 
   # Repositories and software development
-  github           : "UCFLeiHan" 
+  github           : "PengfeiCui99" 
   
   # Social media
-  linkedin         : "lei-han-5b273b2a0"
+  # linkedin         : "lei-han-5b273b2a0"
 
 
 # Publication Category - The following the list of publication categories and their headings

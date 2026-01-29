@@ -1,35 +1,31 @@
-# Lei Han - Academic Homepage
+# Pengfei Cui - Academic Homepage
 
-Personal academic website of **Lei Han**, PhD candidate in Civil Engineering at the University of Central Florida.
+Personal academic website of **Pengfei Cui**, Faculty at the College of Metropolitan Transportation, Beijing University of Technology.
 
-🌐 **Live Site**: [https://ucfleihan.github.io](https://ucfleihan.github.io)
+🌐 **Live Site**: [https://pengfeicui99.github.io](https://pengfeicui99.github.io)
 
 ## About
 
-I am a PhD candidate in Civil Engineering at the University of Central Florida (UCF), working as a Research Assistant at the Smart & Safe Transportation (SST) Lab under the supervision of [Dr. Mohamed Abdel-Aty](https://scholar.google.com/citations?user=Cp4F4JkAAAAJ&hl=en).
+I am a Faculty member at the College of Metropolitan Transportation, Beijing University of Technology (BJUT). My research focuses on urban traffic safety, spatio-temporal modeling, interpretable machine learning, and multi-source data integration (e.g., street-view semantic visual features).
 
 ### Research Interests
 
-- **Traffic Safety Modeling** - Developing data-driven models for traffic crash prediction and analysis
-- **Traffic Operation Analysis** - Network-level traffic state estimation and prediction
-- **Connected Vehicle Data Applications** - Leveraging large-scale CV trajectory data for transportation research
-- **Spatiotemporal Deep Learning** - Advanced machine learning methods for Intelligent Transportation Systems
+- **Urban Traffic Safety** - Crash frequency/severity modeling and risk analysis
+- **Spatio-temporal Modeling** - Dynamic learning and spatio-temporal forecasting
+- **Spatial Statistics & Heterogeneity** - Spatial inequity analysis and heterogeneous effects
+- **Interpretable Machine Learning** - Explainable spatial ML for transportation safety
+- **Street-view Imagery** - Semantic visual feature extraction and multi-source fusion
 
 ### Education
 
-- **Ph.D. in Civil Engineering** (Expected May 2026), University of Central Florida
-- **M.S. in Transportation Engineering** (2023), Tongji University
-- **B.S. in Transportation Engineering** (2020), Tongji University
+- **Ph.D. in System Science** (Sept. 2021 – Jun. 2025), Beijing Jiaotong University
+- **M.Eng. in Transportation Planning and Management** (Sept. 2019 – Jun. 2021), Beijing Jiaotong University
+- **B.Mgmt. in Traffic Management** (Sept. 2015 – Jun. 2019), Dalian Maritime University
 
 ### Research Highlights
 
-- Published **18 SCI papers** in leading transportation journals, including:
-  - *Accident Analysis & Prevention*
-  - *Analytic Methods in Accident Research*
-  - *Transportation Research Part C*
-  - *IEEE Transactions on Intelligent Transportation Systems*
-- **5 first-author** and **4 corresponding-author** publications
-- Serves as reviewer for 10+ transportation journals and major conferences
+- Published research in leading transportation journals (e.g., *Transportation Research Part C*, *Accident Analysis & Prevention*, *Transport Policy*, *Transportmetrica A: Transport Science*).
+- Research keywords: spatial heterogeneity; injury severity modeling; equity analysis; multi-source urban data fusion.
 
 ## Website Structure
 
@@ -96,18 +92,17 @@ The generated site will be in the `_site/` directory.
 
 ## Contact
 
-- **Email**: [lei.han@ucf.edu](mailto:lei.han@ucf.edu)
-- **Google Scholar**: [Lei Han](https://scholar.google.com/citations?user=Gm1QlW0AAAAJ)
-- **ORCID**: [0000-0002-2976-0762](https://orcid.org/0000-0002-2976-0762)
-- **LinkedIn**: [Lei Han](https://www.linkedin.com/in/lei-han-5b273b2a0)
-- **GitHub**: [@UCFLeiHan](https://github.com/UCFLeiHan)
+- **Phone**: +86-13722119206
+- **Email**: [pengfeicui@bjut.edu.cn](mailto:pengfeicui@bjut.edu.cn)
+- **Google Scholar**: [Pengfei Cui](https://scholar.google.com/citations?user=4EGD9vsAAAAJ&hl=en&oi=ao)
+- **GitHub**: [@PengfeiCui99](https://github.com/PengfeiCui99)
 
 ## License
 
 This website is built on the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template, which is based on the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/).
 
-The content of this website (text, images, publications) is © Lei Han. All rights reserved.
+The content of this website (text, images, publications) is © Pengfei Cui. All rights reserved.
 
 ---
 
-**Last Updated**: 2025
+**Last Updated**: 2026
