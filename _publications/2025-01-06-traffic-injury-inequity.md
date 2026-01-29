@@ -4,7 +4,7 @@ collection: publications
 category: journal
 permalink: /publication/2025-01-06-traffic-injury-inequity
 header:
-  teaser: publications/2025-01-06-traffic-injury-inequity.png
+  teaser: publications/2025-01-06-traffic-injury-inequity.jpg
 
 authors: "<strong>Pengfei Cui</strong>, Mohamed Abdel-Aty, Xiaobao Yang*, Chenzhu Wang, Yali Yuan"
 venue: "Accident Analysis & Prevention"

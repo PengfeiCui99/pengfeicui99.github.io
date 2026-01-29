@@ -4,7 +4,7 @@ collection: publications
 category: journal
 permalink: /publication/2025-04-01-spatial-inequality-crash-rates
 header:
-  teaser: publications/2025-04-01-spatial-inequality-crash-rates.pdf
+  teaser: publications/2025-04-01-spatial-inequality-crash-rates.jpg
 
 authors: "<strong>Pengfei Cui</strong>, Mohamed Abdel-Aty*, Chenzhu Wang, Xiaobao Yang, Dongdong Song"
 venue: "Transport Policy"

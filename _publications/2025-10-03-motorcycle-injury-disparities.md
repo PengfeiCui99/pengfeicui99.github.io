@@ -4,7 +4,7 @@ collection: publications
 category: journal
 permalink: /publication/2025-10-03-motorcycle-injury-disparities
 header:
-  teaser: publications/2025-10-03-motorcycle-injury-disparities.pdf
+  teaser: publications/2025-10-03-motorcycle-injury-disparities.jpg
 
 authors: "Chenzhu Wang, <strong>Pengfei Cui*</strong>, Mohamed Abdel-Aty, Said M. Easa"
 venue: "Transportmetrica A: Transport Science"

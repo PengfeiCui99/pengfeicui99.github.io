@@ -4,7 +4,7 @@ collection: publications
 category: journal
 permalink: /publication/2024-03-18-urban-traffic-accident-forecasting
 header:
-  teaser: publications/2024-03-18-urban-traffic-accident-forecasting.png
+  teaser: publications/2024-03-18-urban-traffic-accident-forecasting.jpg
 
 authors: "<strong>Pengfei Cui</strong>, Xiaobao Yang, Mohamed Abdel-Aty, Jinliang Zhang, Xuedong Yan"
 venue: "Accident Analysis & Prevention"
