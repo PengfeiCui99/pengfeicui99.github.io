@@ -2,8 +2,7 @@
 title: "Bivariate Joint Analysis of Intercity Travelers' Adaptive Behaviors During Adverse Weather Events"
 collection: publications
 category: journal
-author_class: other
-permalink: /publication/2025-05-01-intercity-adaptive-behaviors-weather
+permalink: /publications/2025-05-01-intercity-adaptive-behaviors-weather
 header:
   teaser: publications/2025-05-01-intercity-adaptive-behaviors-weather.jpg
 
@@ -14,11 +13,11 @@ year: 2025
 status: "published"
 
 
-method: "Correlated Random Parameters Bivariate Probit Model with Heterogeneity in Means (CRPBPHM)"
-data: "Stated Preference (SP) Survey Data from Beijing-Tianjin-Hebei Urban Agglomeration (N=1033)"
-objects: "Intercity Travelers' Adaptive Behaviors (Departure Date & Travel Mode)"
+method: "Statistics Method"
+data: "Survey Data"
+objects: "Travel Behavior"
 
-abstract: "Travelers often adapt their behaviors to adverse weather, but existing research commonly assumes independent adaptive behaviors. This study employs a correlated random parameters bivariate probit model with heterogeneity in means (CRPBPHM) to jointly analyze intercity travelers' simultaneous adjustments of departure dates and travel modes in response to adverse weather events. Empirical data are derived from stated preference surveys, which integrate adverse weather scenarios into intercity travelers' latest actual travel behaviors within the Beijing-Tianjin-Hebei urban agglomeration. The results reveal a positive correlation between adjustments to departure dates and intercity travel modes. Intercity travelers' adaptive behaviors exhibit multi-layer heterogeneity. Four variables —access time, departure city, monthly income, and education level —are identified as random parameter variables, with departure city and education level showing mean heterogeneity. The correlations between these random parameter variables further influence adaptive behaviors. Additionally, influencing factors and their interactions distinctly shape adaptive decisions. Key findings indicate that intercity travelers are more likely to adjust departure dates than travel modes in adverse weather. Snowy and windy conditions lead to more frequent plan modifications compared to foggy or rainy weather. Rain prompts travelers with visiting purposes or longer stays to adjust departure dates. Train users are less likely to change departure dates in foggy weather and are less likely to switch travel modes during snowfall. These findings enhance our understanding of intercity travelers' joint adaptive behaviors in adverse weather, providing valuable insights for precise and effective emergency management and ensuring secure and smooth intercity transport operations."
+abstract: "Travelers often adapt their behaviors to adverse weather, but existing research commonly assumes independent adaptive behaviors. This study employs a correlated random parameters bivariate probit model with heterogeneity in means (CRPBPHM) to jointly analyze intercity travelers’ simultaneous adjustments of departure dates and travel modes in response to adverse weather events. Empirical data are derived from stated preference surveys, which integrate adverse weather scenarios into intercity travelers’ latest actual travel behaviors within the Beijing-Tianjin-Hebei urban agglomeration. The results reveal a positive correlation between adjustments to departure dates and intercity travel modes. Intercity travelers’ adaptive behaviors exhibit multi-layer heterogeneity. Four variables—access time, departure city, monthly income, and education level—are identified as random parameter variables, with departure city and education level showing mean heterogeneity. The correlations between these random parameter variables further influence adaptive behaviors. Additionally, influencing factors and their interactions distinctly shape adaptive decisions. Key findings indicate that intercity travelers are more likely to adjust departure dates than travel modes in adverse weather. Snowy and windy conditions lead to more frequent plan modifications compared to foggy or rainy weather. Rain prompts travelers with visiting purposes or longer stays to adjust departure dates. Train users are less likely to change departure dates in foggy weather and are less likely to switch travel modes during snowfall. These findings enhance our understanding of intercity travelers’ joint adaptive behaviors in adverse weather, providing valuable insights for precise and effective emergency management and ensuring secure and smooth intercity transport operations."
 description: "This study jointly analyzes intercity travelers' adjustments to departure dates and travel modes during adverse weather using a correlated random parameters bivariate probit model, revealing significant correlations and heterogeneity in adaptive behaviors."
 
 doi: "https://doi.org/10.1016/j.tra.2025.104462"

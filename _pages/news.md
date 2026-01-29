@@ -10,47 +10,92 @@ author_profile: true
   <div style="flex-shrink: 0; width: 24px; height: 24px; background-color: #2196f3; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 1.0em;">i</div>
   <div style="flex: 1; font-size: 1.1em;">
     <strong>Pengfei Cui</strong> is a Lecturer at the College of Metropolitan Transportation, Beijing University of Technology.
-    His research focuses on urban regeneration, integrated transportation–energy systems, and traffic safety.
-    He welcomes collaboration on related research projects (Tel: +86-13722119206, Email: <a href="mailto:pengfeicui@bjut.edu.cn">pengfeicui@bjut.edu.cn</a>).
+    His research focuses on urban transportation safety and system resilience in emerging scenarios such as urban renewal, transport–energy integration, and urban air mobility. 
+    He welcomes collaboration on related research projects (Tel: +86-15311099411, Email: <a href="mailto:pengfeicui@bjut.edu.cn">pengfeicui@bjut.edu.cn</a>).
   </div>
 </div>
 
+<div class="news-scroll-container">
+
+  <div class="news-item">
+    <span class="news-date"><strong>01/2026:</strong></span>
+    <span class="news-text">Co-author paper published in <em>Technological Forecasting & Social Change</em> exploring effects of autonomous vehicles on intercity public transport within urban agglomerations.
+    <a href="https://doi.org/10.1016/j.techfore.2025.124507" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
+  </div>
 
   <div class="news-item">
     <span class="news-date"><strong>10/2025:</strong></span>
-    <span class="news-text">New paper published at <em>Transportation Research Part C</em> that proposes a new <strong>Multiscale Geographical Random Forest</strong> for macro traffic safety spatial modeling integrating street-view semantic visual features. Check it <a href="https://www.sciencedirect.com/science/article/pii/S0968090X25003031" target="_blank" rel="noopener noreferrer">here</a>!</span>
+    <span class="news-text"><strong>[First Author, JCR Q1, IF=7.9]</strong> Paper published in <em>Transportation Research Part C</em> proposing <strong>Multiscale Geographical Random Forest (MGRF)</strong> for traffic safety modeling integrating street-view semantic visual features. 
+    <a href="https://doi.org/10.1016/j.trc.2025.105299" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
   </div>
 
- <div class="news-item">
+  <div class="news-item">
     <span class="news-date"><strong>10/2025:</strong></span>
-    <span class="news-text">Corresponding-author paper in <em>Transportmetrica A: Transport Science</em> analyzing spatiotemporal disparities in macro‑ and microscopic properties of motorcycle injury levels.</span>
+    <span class="news-text"><strong>[Corresponding Author, JCR Q2, IF=3.7]</strong> Paper published in <em>Transportmetrica A: Transport Science</em> analyzing spatiotemporal disparities in macro-microscopic properties of motorcycle injury levels.
+    <a href="https://doi.org/10.1080/23249935.2025.2563183" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
   </div>
 
-<div class="news-scroll-container">
   <div class="news-item">
     <span class="news-date"><strong>07/2025:</strong></span>
-    <span class="news-text">Joined the <strong>College of Metropolitan Transportation</strong> at <strong>Beijing University of Technology</strong> as a <strong>Lecturer</strong>, focusing on urban regeneration, integrated transportation–energy systems, and traffic safety.</span>
+    <span class="news-text">Joined the <strong>College of Metropolitan Transportation</strong> at <strong>Beijing University of Technology</strong> as a <strong>Lecturer</strong>.</span>
   </div>
-
 
   <div class="news-item">
-    <span class="news-date"><strong>-04/2025:</strong></span>
-    <span class="news-text">First-author paper published in <em>Transport Policy</em> examining how spatial inequality in socio‑demographic and commuting patterns affects traffic crash rates using interpretable machine learning and spatial statistical models.
-    Check it <a href="https://doi.org/10.1016/j.tranpol.2025.03.033" target="_blank" rel="noopener noreferrer">here</a>!
-    </span>
+    <span class="news-date"><strong>06/2025:</strong></span>
+    <span class="news-text">Received <strong>Ph.D. degree in School of Systems Science</strong> at <strong>Beijing Jiaotong University</strong>. Dissertation: "Spatiotemporal modeling and risk assessment of urban traffic crashes
+based on multi-source data".</span>
   </div>
 
+  <div class="news-item">
+    <span class="news-date"><strong>05/2025:</strong></span>
+    <span class="news-text">Co-author paper published in <em>Transportation Research Part A</em> analyzing intercity travelers' adaptive behaviors during adverse weather events.
+    <a href="https://doi.org/10.1016/j.tra.2025.104462" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date"><strong>04/2025:</strong></span>
+    <span class="news-text"><strong>[First Author, JCR Q1, IF=5.3]</strong> Paper published in <em>Transport Policy</em> examining spatial inequality in socio-demographic and commute patterns on traffic crash rates using interpretable machine learning.
+    <a href="https://doi.org/10.1016/j.tranpol.2025.03.033" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
+  </div>
 
   <div class="news-item">
     <span class="news-date"><strong>01/2025:</strong></span>
-    <span class="news-text">First-author paper published in <em>Accident Analysis &amp; Prevention</em> quantifying spatial inequities in traffic injury rates through integrated urban road network measures and social vulnerability indices.
-    Check it <a href="https://doi.org/10.1016/j.aap.2025.107916" target="_blank" rel="noopener noreferrer">here</a>!
-    </span>
+    <span class="news-text"><strong>[First Author, JCR Q1, IF=6.2]</strong> Paper published in <em>Accident Analysis & Prevention</em> quantifying spatial inequities in traffic injury rates through urban road network measures and social vulnerability.
+    <a href="https://doi.org/10.1016/j.aap.2025.107916" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date"><strong>11/2024:</strong></span>
+    <span class="news-text">Completed one-year visiting research at <strong>University of Central Florida</strong> with Prof. Mohamed Abdel-Aty.</span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date"><strong>10/2024:</strong></span>
+    <span class="news-text"><strong>[Corresponding Author, JCR Q1, IF=6.2]</strong> Paper published in <em>Accident Analysis & Prevention</em> analyzing helmet usage effects on moped riders' injury severity using temporal constrained random parameters models.
+    <a href="https://doi.org/10.1016/j.aap.2024.107800" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
   </div>
 
   <div class="news-item">
     <span class="news-date"><strong>03/2024:</strong></span>
-    <span class="news-text">First-author paper published in <em>Accident Analysis &amp; Prevention</em> proposing a sparse spatio‑temporal dynamic learning network for urban traffic accident risk forecasting.</span>
+    <span class="news-text"><strong>[First Author, JCR Q1, IF=6.2]</strong> Paper published in <em>Accident Analysis & Prevention</em> proposing sparse spatio-temporal dynamic learning network for urban traffic accident forecasting.
+    <a href="https://doi.org/10.1016/j.aap.2024.107564" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date"><strong>11/2023:</strong></span>
+    <span class="news-text">Started visiting research at <strong>University of Central Florida</strong>, Smart & Safe Transportation Lab (SST Lab).</span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date"><strong>09/2023:</strong></span>
+    <span class="news-text"><strong>[First Author, JCR Q3, IF=2.6]</strong> Paper published in <em>Journal of Transportation Safety & Security</em> modeling two-vehicle speed effects on crash risk using 2D additive logistic regression.
+    <a href="https://doi.org/10.1080/19439962.2023.2250307" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
+  </div>
+
+  <div class="news-item">
+    <span class="news-date"><strong>06/2023:</strong></span>
+    <span class="news-text">Co-author paper published in <em>Accident Analysis & Prevention</em> analyzing injury severity in truck-car crashes with multilayer unobserved heterogeneity.
+    <a href="https://doi.org/10.1016/j.aap.2023.107175" target="_blank" rel="noopener noreferrer">Check it here!</a></span>
   </div>
 
 </div>

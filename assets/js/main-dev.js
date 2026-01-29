@@ -109,7 +109,7 @@ var toggleTheme = () => {
       
       // Create PDF button
       const pdfButton = document.createElement('a');
-      pdfButton.href = '/files/LH_Academic_CV.pdf';
+      pdfButton.href = '/files/Pengfei_Cui_CV.pdf';
       pdfButton.target = '_blank';
       pdfButton.rel = 'noopener noreferrer';
       pdfButton.className = 'cv-pdf-button';

@@ -2,7 +2,8 @@
 title: "Quantifying Spatial Inequities in Traffic Injury Rates Through the Integration of Urban Road Network Measures and Social Vulnerability"
 collection: publications
 category: journal
-permalink: /publication/2025-01-06-traffic-injury-inequity
+author_class: "corresponding"
+permalink: /publications/2025-01-06-traffic-injury-inequity
 header:
   teaser: publications/2025-01-06-traffic-injury-inequity.jpg
 
@@ -11,13 +12,14 @@ venue: "Accident Analysis & Prevention"
 date: 2025-01-06
 year: 2025
 status: "published"
-author_class: "corresponding"
 
-method: "Spatial Lag Model (SLM) & Geographically Weighted Regression (GWR)"
-data: "New York City Crash Data (2021-2023), Social Vulnerability Index (SVI), Urban Road Network Measures"
-objects: "Spatial Inequity in Traffic Injury Rates"
+
+method: "Spatial Statistics"
+data: "NYC Crash Data"
+objects: "Crash Frequency Modeling; Spatial Modeling"
 
 abstract: "Mitigating traffic injury rate plays an essential role in sustainable urban development and is closely related to public health and human well-being. The inequity of traffic injury rate undermines equitable access to transportation infrastructure and poses a significant threat to the safety of residents during their commutes. Although previous studies have examined the association between socio-demographic characteristics and regional traffic crash risk, they seldom consider the spatial heterogeneity of the traffic injury rate inequity especially for the vulnerable groups. This study tackles three main challenges in quantifying spatial inequity in traffic injury rate, including identifying appropriate spatial units for macro-level crash modelling, integrating network topology measures, and examining the inequities suffered by vulnerable group. The global-scale spatial lag model (SLM) and local-scale geographically weighted regression (GWR) were employed at the census tract, Voronoi diagram and grid cell levels in New York City. The results highlight significant spatial variations in social vulnerability, showing that vulnerable indicators of housing cost burden, older age, minority, and those living in mobile homes are linked to increased traffic injury rate, especially in urban core regions. Furthermore, network topology measures indicates that increased network complexity and the buildings density would increase traffic injury rate. The traffic injury rate inequity level of each region was evaluated to identify areas with significant inequities for prioritization in future traffic planning. Recommendations like subsidized traffic insurance rates, enhanced public transportation services, and educational campaigns tailored for vulnerable groups are proposed. By prioritizing the needs of vulnerable groups and addressing the structural factors contributing to traffic injuries, policymakers can create safer and more equitable urban environment."
+
 description: "This study utilizes spatial lag models and geographically weighted regression to quantify spatial inequities in traffic injury rates in New York City (2021-2023), integrating urban road network topology and social vulnerability indices."
 
 doi: "https://doi.org/10.1016/j.aap.2025.107916"

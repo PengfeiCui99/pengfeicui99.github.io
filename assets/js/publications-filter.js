@@ -7,7 +7,7 @@
   'use strict';
 
   // User's name - should match the name in author list
-  const USER_NAME = 'Lei Han';
+  const USER_NAME = 'Pengfei Cui';
 
   function getUserRoleInPublication(authorsHTML) {
     if (!authorsHTML || !authorsHTML.trim()) {

@@ -563,12 +563,62 @@ html[data-theme="dark"] .cv-card:hover {
 </style>
 
 <div class="cv-card-container">
+
+  <!-- Work Experience Card -->
+  <div class="cv-card">
+    <details open>
+      <summary>Work Experience</summary>
+      <div class="cv-card-content">
+      <div class="cv-education-item">
+        <a href="https://www.bjut.edu.cn/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/bjut-logo.png" alt="BJUT Logo" class="cv-education-logo">
+        </a>
+        <div class="cv-education-content">
+          <div class="cv-education-header">
+            <div class="cv-education-left">
+              <div class="cv-education-degree">Lecturer</div>
+              <div class="cv-education-university">Beijing University of Technology</div>
+            </div>
+            <div class="cv-education-meta">
+              July 2025 - Present<br>
+              Beijing, China
+            </div>
+          </div>
+          <div class="cv-education-details">
+            College of Metropolitan Transportation
+          </div>
+        </div>
+      </div>
+      </div>
+    </details>
+  </div>
   
   <!-- Education Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>Education</summary>
       <div class="cv-card-content">
+      <div class="cv-education-item">
+        <a href="https://www.bjtu.edu.cn/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/bjtu-logo.png" alt="BJTU Logo" class="cv-education-logo">
+        </a>
+        <div class="cv-education-content">
+          <div class="cv-education-header">
+            <div class="cv-education-left">
+              <div class="cv-education-degree">Ph.D. in Systems Science</div>
+              <div class="cv-education-university">Beijing Jiaotong University</div>
+            </div>
+            <div class="cv-education-meta">
+              September 2021 - June 2025<br>
+              Beijing, China
+            </div>
+          </div>
+          <div class="cv-education-details">
+            Advised by Prof. Xiaobao Yang<br>
+            <em>Dissertation: Research on Key Technologies of Urban Road Traffic System Risk Evolution and Spatial-temporal Network Modeling</em>
+          </div>
+        </div>
+      </div>
       <div class="cv-education-item">
         <a href="https://www.ucf.edu/" target="_blank" rel="noopener noreferrer">
           <img src="/images/ucf-logo.png" alt="UCF Logo" class="cv-education-logo">
@@ -576,60 +626,55 @@ html[data-theme="dark"] .cv-card:hover {
         <div class="cv-education-content">
           <div class="cv-education-header">
             <div class="cv-education-left">
-              <div class="cv-education-degree">Ph.D. in Civil Engineering</div>
-              <div class="cv-education-university">University of Central Florida (UCF)</div>
+              <div class="cv-education-degree">Visiting Scholar</div>
+              <div class="cv-education-university">University of Central Florida</div>
             </div>
             <div class="cv-education-meta">
-              August 2023 - May 2026<br>
+              November 2023 - November 2024<br>
               Orlando, USA
             </div>
           </div>
           <div class="cv-education-details">
-            Advised by Dr. Mohamed Abdel-Aty<br>
-            GPA: 4.00/4.00 (Top 5%)<br>
-            <em>Dissertation: Connected Vehicle Data-based Traffic Safety and Mobility Analysis</em>
+            Advised by Prof. Mohamed Abdel-Aty<br>
+            Smart & Safe Transportation Lab (SST Lab)
           </div>
         </div>
       </div>
       <div class="cv-education-item">
-        <a href="https://en.tongji.edu.cn/p/#/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/tongji-logo.png" alt="Tongji University Logo" class="cv-education-logo">
+        <a href="https://www.bjtu.edu.cn/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/bjtu-logo.png" alt="BJTU Logo" class="cv-education-logo">
         </a>
         <div class="cv-education-content">
           <div class="cv-education-header">
             <div class="cv-education-left">
-              <div class="cv-education-degree">M.S. in Transportation Engineering</div>
-              <div class="cv-education-university">Tongji University</div>
+              <div class="cv-education-degree">M.S. in Transportation Planning and Management</div>
+              <div class="cv-education-university">Beijing Jiaotong University</div>
             </div>
             <div class="cv-education-meta">
-              September 2020 - May 2023<br>
-              Shanghai, China
+              September 2019 - June 2021<br>
+              Beijing, China
             </div>
           </div>
           <div class="cv-education-details">
-            Advised by Dr. Rongjie Yu<br>
-            Grade: 4.71/5.00 (Top 5%)<br>
-            <em>Thesis: Expressway Crash Risk Evaluation Modeling and Robustness Analysis</em>
+            Advised by Prof. Lu Ma<br>
+            <em>Successive M.S.-Ph.D. Program</em>
           </div>
         </div>
       </div>
       <div class="cv-education-item">
-        <a href="https://en.tongji.edu.cn/p/#/" target="_blank" rel="noopener noreferrer">
-          <img src="/images/tongji-logo.png" alt="Tongji University Logo" class="cv-education-logo">
+        <a href="https://www.dlmu.edu.cn/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/dlmu-logo.png" alt="DLMU Logo" class="cv-education-logo">
         </a>
         <div class="cv-education-content">
           <div class="cv-education-header">
             <div class="cv-education-left">
-              <div class="cv-education-degree">B.S. in Transportation Engineering</div>
-              <div class="cv-education-university">Tongji University</div>
+              <div class="cv-education-degree">B.S. in Traffic Management</div>
+              <div class="cv-education-university">Dalian Maritime University</div>
             </div>
             <div class="cv-education-meta">
-              September 2016 - May 2020<br>
-              Shanghai, China
+              September 2015 - June 2019<br>
+              Dalian, China
             </div>
-          </div>
-          <div class="cv-education-details">
-            GPA: 4.43/5.00
           </div>
         </div>
       </div>
@@ -639,118 +684,41 @@ html[data-theme="dark"] .cv-card:hover {
 
   <!-- Research Interests Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>Research Interests</summary>
       <div class="cv-card-content">
-      <p><strong>Transportation research</strong><br>
-      Traffic safety modeling; Traffic operation and prediction; CV data applications.</p>
+      <p><strong>Research Areas</strong><br>
+      Urban traffic system risk evolution; Spatiotemporal network modeling; Accident causation analysis; Visual semantic analysis.</p>
       
       <p><strong>Methodology</strong><br>
-      Econometric statistical models; Spatiotemporal ML & DL; Generative AI.</p>
+      Machine learning & deep learning; Spatial statistics; Econometric models; Computer vision.</p>
       
-      <p><strong>Working topics</strong></p>
+      <p><strong>Working Topics</strong></p>
       <ul>
-        <li>Multi-scale traffic safety modeling with CV data-based driving behaviors</li>
-        <li>Network mobility analysis with multi-source traffic data (e.g., CV & ATSPM data)</li>
-        <li>Applying generative AI for traffic safety and mobility prediction</li>
+        <li>Macro-level traffic safety modeling integrating street-view semantic visual features</li>
+        <li>Spatial inequity analysis in traffic injury rates</li>
+        <li>Crash frequency and severity modeling with heterogeneity</li>
       </ul>
-      </div>
-    </details>
-  </div>
-
-  <!-- Projects Card -->
-  <div class="cv-card">
-    <details>
-      <summary>Projects</summary>
-      <div class="cv-card-content">
-      <div class="cv-project-section-title">Ph.D. Research Projects</div>
-      
-      <div class="cv-project-item">
-        <div class="cv-project-title"><a href="https://rip.trb.org/View/2529964" target="_blank" rel="noopener noreferrer">Network Level Proactive Traffic Operations Indicator Using AI and CV Data</a></div>
-        <div class="cv-project-header">
-          <div class="cv-project-sponsor">Florida DOT Project, No. BED28 977-18. ($247,950)</div>
-          <div class="cv-project-meta">
-            May 2025 - February 2027
-          </div>
-        </div>
-        <div class="cv-project-description">
-          <ul>
-            <li>Developing CV-data-driven traffic safety and mobility indicators for urban roadway networks.</li>
-            <li>Implementing spatiotemporal DL models (e.g., GCN, Transformer) for real-time traffic prediction.</li>
-            <li>Designing a dashboard for monitoring and forecasting network-level traffic indicators.</li>
-          </ul>
-        </div>
-      </div>
-      
-      <div class="cv-project-item">
-        <div class="cv-project-title"><a href="https://expertnet.org/index.cfm?fuseaction=projects.details&id=279555" target="_blank" rel="noopener noreferrer">Advanced Transportation Technologies and Innovation (ATTAIN) Phase IV</a></div>
-        <div class="cv-project-header">
-          <div class="cv-project-sponsor">Florida DOT Project ($500,000)</div>
-          <div class="cv-project-meta">
-            July 2022 - February 2025
-          </div>
-        </div>
-        <div class="cv-project-description">
-          <ul>
-            <li>Developing an ensemble ML framework for secondary crash prediction using Microwave-detector data.</li>
-            <li>Integrating the prediction module into the ATTAIN system and validating on central Florida freeways.</li>
-          </ul>
-        </div>
-      </div>
-      
-      <div class="cv-project-section-title">M.S. Research Projects</div>
-      
-      <div class="cv-project-item">
-        <div class="cv-project-title">Smart Freeway Active Safety Traffic Operation Management</div>
-        <div class="cv-project-header">
-          <div class="cv-project-sponsor">Science and Technology Project of Zhejiang Province </div>
-          <div class="cv-project-meta">
-            July 2021 - January 2023
-          </div>
-        </div>
-        <div class="cv-project-description">
-          <ul>
-            <li>Identifying risky driving behaviors (e.g., hard braking and hard acceleration) from smartphone-based trajectory and motion data.</li>
-            <li>Developing a real-time crash prediction model integrating behavior features with traffic flow states.</li>
-          </ul>
-        </div>
-      </div>
       </div>
     </details>
   </div>
 
   <!-- Honors and Awards Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>Honors and Awards</summary>
       <div class="cv-card-content">
       <div class="cv-award-item">
-        <span class="cv-award-name"><strong><a href="https://www.icftte.org/fstar" target="_blank" rel="noopener noreferrer">FTTE Future Stars Award</a></strong>, 4th International Conference on Frontiers of Traffic and Transportation Engineering (FTTE 2025)</span>
-        <span class="cv-award-date">November 2025</span>
+        <span class="cv-award-name"><strong>ESI Highly Cited Paper (Top 1%)</strong>, 2 papers in Accident Analysis & Prevention</span>
+        <span class="cv-award-date">2024-2025</span>
       </div>
       <div class="cv-award-item">
-        <span class="cv-award-name"><strong>Department Fellowship</strong>, Department of Civil, Environmental and Construction Engineering, UCF</span>
+        <span class="cv-award-name"><strong>Outstanding Graduate Student</strong>, Beijing Jiaotong University</span>
+        <span class="cv-award-date">2025</span>
+      </div>
+      <div class="cv-award-item">
+        <span class="cv-award-name"><strong>China Scholarship Council (CSC) Award</strong>, for visiting research at UCF</span>
         <span class="cv-award-date">2023-2024</span>
-      </div>
-      <div class="cv-award-item">
-        <span class="cv-award-name"><strong><a href="https://tjjt.tongji.edu.cn/info/1596/7481.htm" target="_blank" rel="noopener noreferrer">China National Scholarship</a></strong> <em>(1 of 9 winners out of 326 students)</em></span>
-        <span class="cv-award-date">November 2021</span>
-      </div>
-      <div class="cv-award-item">
-        <span class="cv-award-name"><strong>Second Prize: 18th China Postgraduate Mathematical Contest in Modeling (CPMCM)</strong></span>
-        <span class="cv-award-date">November 2020</span>
-      </div>
-      <div class="cv-award-item">
-        <span class="cv-award-name"><strong>China National Encouragement Scholarship</strong> <em>(1 of 10 winners out of 420 students)</em></span>
-        <span class="cv-award-date">November 2019</span>
-      </div>
-      <div class="cv-award-item">
-        <span class="cv-award-name"><strong><a href="https://news.tongji.edu.cn/info/1003/69937.htm" target="_blank" rel="noopener noreferrer">First Prize: 14th National Competition of Transport Science and Technology for Students</a></strong> <em>(1 of 2 winners out of 20 teams)</em></span>
-        <span class="cv-award-date">November 2019</span>
-      </div>
-      <div class="cv-award-item">
-        <span class="cv-award-name"><strong>Tongji University 2nd-Class Outstanding Student Scholarship</strong></span>
-        <span class="cv-award-date">November 2019</span>
       </div>
       </div>
     </details>
@@ -758,7 +726,7 @@ html[data-theme="dark"] .cv-card:hover {
 
   <!-- Publications Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>Publications</summary>
       <div class="cv-card-content">
       {% assign sorted_publications = site.publications | sort: 'year' | reverse %}
@@ -785,31 +753,17 @@ html[data-theme="dark"] .cv-card:hover {
 
   <!-- Academic Services Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>Academic Services</summary>
       <div class="cv-card-content">
       <div class="cv-service-section">
         <h3 class="cv-service-section-title">Journal Reviewer</h3>
         <ul class="cv-service-list">
-          <li><a href="https://www.journals.elsevier.com/accident-analysis-and-prevention" target="_blank" rel="noopener noreferrer">Accident Analysis & Prevention</a> (JCR Q1, reviewed 10 papers by 2025)</li>
-          <li><a href="https://www.journals.elsevier.com/transportation-research-part-a-policy-and-practice" target="_blank" rel="noopener noreferrer">Transportation Research Part A: Policy and Practice</a> (JCR Q1)</li>
-          <li><a href="https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies" target="_blank" rel="noopener noreferrer">Transportation Research Part C: Emerging Technologies</a> (JCR Q1)</li>
-          <li><a href="https://www.journals.elsevier.com/transportation-research-part-e-logistics-and-transportation-review" target="_blank" rel="noopener noreferrer">Transportation Research Part E: Logistics and Transportation Review</a> (JCR Q1)</li>
-          <li><a href="https://www.journals.elsevier.com/expert-systems-with-applications" target="_blank" rel="noopener noreferrer">Expert Systems with Applications</a> (JCR Q1)</li>
-          <li><a href="https://www.keaipublishing.com/en/journals/journal-of-traffic-and-transportation-engineering-english-edition/" target="_blank" rel="noopener noreferrer">Journal of Traffic and Transportation Engineering (English Edition)</a> (JCR Q1)</li>
-          <li><a href="https://www.journals.elsevier.com/journal-of-transport-geography" target="_blank" rel="noopener noreferrer">Journal of Transport Geography</a> (JCR Q1)</li>
-          <li><a href="https://www.journals.elsevier.com/transport-policy" target="_blank" rel="noopener noreferrer">Transport Policy</a> (JCR Q1)</li>
-          <li><a href="https://www.journals.elsevier.com/safety-science" target="_blank" rel="noopener noreferrer">Safety Science</a> (JCR Q1)</li>
-          <li><a href="https://ascelibrary.org/journal/jtepbs" target="_blank" rel="noopener noreferrer">Journal of Transportation Engineering Part A: Systems</a> (JCR Q2)</li>
-          <li><a href="https://www.tandfonline.com/journals/gcpi20" target="_blank" rel="noopener noreferrer">Traffic Injury Prevention</a> (JCR Q2)</li>
-        </ul>
-      </div>
-      
-      <div class="cv-service-section">
-        <h3 class="cv-service-section-title">Conference Reviewer</h3>
-        <ul class="cv-service-list">
-          <li><a href="https://www.trb.org/AnnualMeeting/AnnualMeeting.aspx" target="_blank" rel="noopener noreferrer">Transportation Research Board Annual Meeting</a> (2024-2026)</li>
-          <li><a href="https://en.wtc-conference.com/" target="_blank" rel="noopener noreferrer">World Transport Convention</a> (2023-2024)</li>
+          <li><a href="https://www.nature.com/ncomms/" target="_blank" rel="noopener noreferrer">Nature Communications</a> </li>
+          <li><a href="https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies" target="_blank" rel="noopener noreferrer">Transportation Research Part C: Emerging Technologies</a> </li>
+          <li><a href="https://www.journals.elsevier.com/accident-analysis-and-prevention" target="_blank" rel="noopener noreferrer">Accident Analysis & Prevention</a> </li>
+          <li><a href="https://www.journals.elsevier.com/transport-policy" target="_blank" rel="noopener noreferrer">Transport Policy</a> </li>
+          <li><a href="https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety" target="_blank" rel="noopener noreferrer">Reliability Engineering & System Safety</a> </li>
         </ul>
       </div>
       </div>
@@ -818,12 +772,12 @@ html[data-theme="dark"] .cv-card:hover {
 
   <!-- Skills Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>Skills</summary>
       <div class="cv-card-content">
       <ul>
-        <li><strong>Programming:</strong> Python, R, BUGS (for Bayesian inference modeling), LaTeX</li>
-        <li><strong>Software & Tools:</strong> VS Code, Cursor, RStudio, WinBUGS, ArcGIS Pro, Zotero, Overleaf, Microsoft Office</li>
+        <li><strong>Programming:</strong> Python, R, STATA, LaTeX</li>
+        <li><strong>Software & Tools:</strong> ArcGIS Pro, QGIS, VS Code, Cursor, RStudio, Zotero, Overleaf, Microsoft Office</li>
         <li><strong>Languages:</strong> Chinese (Native), English (Fluent)</li>
       </ul>
       </div>
@@ -832,41 +786,56 @@ html[data-theme="dark"] .cv-card:hover {
 
   <!-- References Card -->
   <div class="cv-card">
-    <details>
+    <details open>
       <summary>References</summary>
       <div class="cv-card-content">
       <div class="cv-reference-item">
-        <a href="https://scholar.google.com/citations?user=Cp4F4JkAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-          <img src="/images/references/abdel-aty.jpg" alt="Dr. Mohamed Abdel-Aty" class="cv-reference-photo" onerror="this.style.display='none'">
+        <a href="https://faculty.bjtu.edu.cn/8012/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/references/xiaobao-yang.jpg" alt="Prof. Xiaobao Yang" class="cv-reference-photo" onerror="this.style.display='none'">
         </a>
         <div class="cv-reference-content">
           <div class="cv-reference-name">
-            <span>1. Dr. Mohamed Abdel-Aty</span>
+            <span>1. Prof. Xiaobao Yang</span>
             <span class="cv-reference-relationship">Ph.D. Advisor</span>
+          </div>
+          <div class="cv-reference-email">yangxb@bjtu.edu.cn</div>
+          <div class="cv-reference-details">
+            Professor at School of System Science, Beijing Jiaotong University
+        
+          </div>
+        </div>
+      </div>
+      
+      <div class="cv-reference-item">
+        <a href="https://faculty.bjtu.edu.cn/8503/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/references/lu-ma.jpg" alt="Prof. Lu Ma" class="cv-reference-photo" onerror="this.style.display='none'">
+        </a>
+        <div class="cv-reference-content">
+          <div class="cv-reference-name">
+            <span>2. Prof. Lu Ma</span>
+            <span class="cv-reference-relationship">M.S. Advisor</span>
+          </div>
+          <div class="cv-reference-email">lum@bjtu.edu.cn</div>
+          <div class="cv-reference-details">
+            Professor at School of Traffic and Transportation, Beijing Jiaotong University
+          </div>
+        </div>
+      </div>
+      
+      <div class="cv-reference-item">
+        <a href="https://www.cecs.ucf.edu/faculty/mohamed-abdel-aty/" target="_blank" rel="noopener noreferrer">
+          <img src="/images/references/abdel-aty.jpg" alt="Prof. Mohamed Abdel-Aty" class="cv-reference-photo" onerror="this.style.display='none'">
+        </a>
+        <div class="cv-reference-content">
+          <div class="cv-reference-name">
+            <span>3. Prof. Mohamed Abdel-Aty</span>
+            <span class="cv-reference-relationship">Visiting Advisor</span>
           </div>
           <div class="cv-reference-email">M.Aty@ucf.edu</div>
           <div class="cv-reference-details">
             Pegasus Professor, Trustee Endowed Chair & former Chair of CECE Department, UCF<br>
             Director of Smart & Safe Transportation Lab (SST Lab)<br>
             Editor Emeritus of Accident Analysis & Prevention
-          </div>
-        </div>
-      </div>
-      
-      <div class="cv-reference-item">
-        <a href="https://scholar.google.com/citations?user=30nwNRsAAAAJ" target="_blank" rel="noopener noreferrer">
-          <img src="/images/references/rongjie-yu.jpg" alt="Dr. Rongjie Yu" class="cv-reference-photo" onerror="this.style.display='none'">
-        </a>
-        <div class="cv-reference-content">
-          <div class="cv-reference-name">
-            <span>2. Dr. Rongjie Yu</span>
-            <span class="cv-reference-relationship">M.S. Advisor</span>
-          </div>
-          <div class="cv-reference-email">yurongjie@tongji.edu.cn</div>
-          <div class="cv-reference-details">
-            Professor at the College of Transportation, Tongji University<br>
-            National Young Scholar (Ministry of Education of China)<br>
-            World's Top 2% Scientists (Stanford-Elsevier)
           </div>
         </div>
       </div>

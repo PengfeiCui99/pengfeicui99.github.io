@@ -1,16 +1,16 @@
 ---
-title: "About Me"
+title: "Pengfei Cui (崔鹏飞)"
 permalink: /
 author_profile: true
 ---
 
-I am a Lecturer at the College of Metropolitan Transportation, Beijing University of Technology. I received my Ph.D. in Systems Science from Beijing Jiaotong University in 2025. I also hold a Bachelor's degree in Traffic Management from Dalian Maritime University (2019).
+I am a Lecturer in the College of Metropolitan Transportation at Beijing University of Technology since July/2025. I received my Ph.D. degree with the School of System Science, Beijing Jiaotong University, China, in Jun/2025. My Ph.D. supervisor is Prof. [Xiaobao Yang](https://faculty.bjtu.edu.cn/8012/). From Nov/2023 to Nov/2024, I was a Visiting Scholar at the Smart & Safe Transportation Lab (SST Lab), University of Central Florida, working with Prof. [Mohamed Abdel-Aty](https://www.cecs.ucf.edu/faculty/mohamed-abdel-aty/).
 
-My research focuses on fundamental theories and key technologies in urban traffic system risk evolution, spatiotemporal network modeling, accident causation analysis, and visual semantic analysis. I am particularly interested in developing innovative machine learning and spatial statistical approaches for traffic safety modeling, integrating street-view semantic visual features, and analyzing spatial inequities in traffic injury rates.
+My research focuses on urban transportation safety and system resilience in emerging scenarios such as urban renewal, transport–energy integration, and urban air mobility. In the past five years, I have published 10+ SCI/SSCI papers, including 2 ESI Top 1% Highly Cited Papers, and authored 8 papers as first/corresponding author. My work has appeared in journals such as *Transportation Research Part C*, *Accident Analysis & Prevention*, *Reliability Engineering & System Safety*, *Transport Policy*. A full list of publications is available [here](/publications/).
 
-In the past five years, I have published over 10 SCI/SSCI papers in leading transportation journals, including 2 ESI 1% highly cited papers. Among these, 8 SCI/SSCI papers were published as first author or corresponding author, including 6 first-tier journal papers from the Chinese Academy of Sciences. My work has appeared in journals such as *Transportation Research Part C: Emerging Technologies*, *Accident Analysis & Prevention*, *Transport Policy*, and *Transportmetrica A: Transport Science* (see these publications [here](/publications/)). 
+If you are interested in collaboration, please feel free to email me at [pengfeicui@bjut.edu.cn](mailto:pengfeicui@bjut.edu.cn), or visit my homepage at [pengfeicui.github.io](https://pengfeicui.github.io).
 
-I currently serve as a reviewer for SCI/SSCI academic journals including *Nature Communication*, *Transportation Research Part C*, and *Accident Analysis & Prevention*.
+
 
 <div class="info-grid">
   <div class="info-column">
@@ -18,10 +18,10 @@ I currently serve as a reviewer for SCI/SSCI academic journals including *Nature
       <span class="emoji-icon">🔬</span> Research Interests
     </h2>
     <ul>
-      <li>Urban Traffic System Risk Evolution</li>
+      <li>Urban Traffic Safety & Resilience</li>
       <li>Spatiotemporal Network Modeling</li>
-      <li>Accident Causation Analysis</li>
-      <li>Visual Semantic Analysis</li>
+      <li>Crash Causation & Causal Inference</li>
+      <li>Street-View Semantics & Multimodal Sensing</li>
     </ul>
   </div>
 
@@ -32,23 +32,19 @@ I currently serve as a reviewer for SCI/SSCI academic journals including *Nature
     <ul class="edu-list">
       <li>
         <div class="edu-role">Lecturer, College of Metropolitan Transportation</div>
-        <div class="edu-place">Beijing University of Technology, 2025/07 - Present</div>
+        <div class="edu-place">Beijing University of Technology, July/2025 - Present</div>
       </li>
       <li>
-        <div class="edu-role">Ph.D. in Systems Science</div>
-        <div class="edu-place">Beijing Jiaotong University, 2021/09 - 2025/06</div>
+        <div class="edu-role">Ph.D. in School of Systems Science</div>
+        <div class="edu-place">Beijing Jiaotong University, Sep/2019 - June/2025</div>
       </li>
       <li>
-        <div class="edu-role">Visiting Scholar in Transportation Engineering</div>
-        <div class="edu-place">University of Central Florida, 2023/11 - 2024/11</div>
-      </li>
-      <li>
-        <div class="edu-role">M.S. in School of Traffic and Transportation</div>
-        <div class="edu-place">Beijing Jiaotong University, 2019/09 - 2021/06</div>
+        <div class="edu-role">Visiting Scholar in Civil Engineering</div>
+        <div class="edu-place">University of Central Florida, Nov/2023 - Nov/2024</div>
       </li>
       <li>
         <div class="edu-role">B.S. in Traffic Management</div>
-        <div class="edu-place">Dalian Maritime University, 2015/09 - 2019/06</div>
+        <div class="edu-place">Dalian Maritime University, Sep/2015 - June/2019</div>
       </li>
     </ul>
   </div>
@@ -96,7 +92,7 @@ I currently serve as a reviewer for SCI/SSCI academic journals including *Nature
   <div class="pub-card">
     <div class="pub-content">
       <div class="pub-title">
-        <a href="/publications/2024-03-18-urban-traffic-accident-forecasting">Advancing urban traffic accident forecasting through sparse spatio-temporal dynamic learning</a>
+        <a href="/publications/2024-03-18-urban-traffic-accident-forecasting">Advancing urban traffic accident forecasting through sparse spatio-temporal dynamic learning (<em>ESI Highly Cited Paper</em>) </a>
       </div>
       
       <div class="pub-journal">
@@ -104,7 +100,7 @@ I currently serve as a reviewer for SCI/SSCI academic journals including *Nature
       </div>
       
       <div class="pub-authors">
-        <strong>Cui P</strong>, Yang X, Abdel-Aty M, Zhang J, Yan X (First author, CAS Zone 1)
+        <strong>Cui P</strong>, Yang X, Abdel-Aty M, Zhang J, Yan X
       </div>
       
       <div class="pub-abstract">
