@@ -4,7 +4,7 @@ collection: publications
 category: journal
 permalink: /publication/2023-09-26-two-vehicle-speed-2d-gam
 header:
-  teaser: publications/2023-09-26-two-vehicle-speed-2d-gam.png
+  teaser: publications/2023-09-26-two-vehicle-speed-2d-gam.jpg
 
 authors: "<strong>Pengfei Cui</strong>, Xiaobao Yang*, Lu Ma, Chaoxu Mu"
 venue: "Journal of Transportation Safety & Security"
