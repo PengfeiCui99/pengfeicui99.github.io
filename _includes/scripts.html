@@ -1,13 +1,13 @@
 <!-- Load jQuery first (required by main-dev.js) -->
 <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <!-- Load navigation plugin -->
-<script src="{{ base_path }}/assets/js/plugins/jquery.greedy-navigation.js"></script>
+<script src="{{ '/assets/js/plugins/jquery.greedy-navigation.js' | relative_url }}"></script>
 <!-- Load theme.js first (required by main-dev.js) -->
-<script src="{{ base_path }}/assets/js/theme.js"></script>
+<script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
 <!-- Load main script (unminified for development) -->
-<script src="{{ base_path }}/assets/js/main-dev.js"></script>
+<script src="{{ '/assets/js/main-dev.js' | relative_url }}"></script>
 
 <!-- Citation Modal Script -->
-<script src="{{ base_path }}/assets/js/citation-modal.js"></script>
+<script src="{{ '/assets/js/citation-modal.js' | relative_url }}"></script>
 
 {% include analytics.html %}

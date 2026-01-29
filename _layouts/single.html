@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include base_path %}
-
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
@@ -54,7 +52,7 @@ layout: default
 
         {% if page.collection == 'publications' and page.header.teaser %}
           <div class="page__publication-image">
-            <img src="{% if page.header.teaser contains '://' %}{{ page.header.teaser }}{% elsif page.header.teaser contains '/' and page.header.teaser contains 'images' %}{{ page.header.teaser | prepend: base_path }}{% else %}{{ page.header.teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ page.title }}" class="publication__image">
+            <img src="{% if page.header.teaser contains '://' %}{{ page.header.teaser }}{% elsif page.header.teaser contains '/' and page.header.teaser contains 'images' %}{{ page.header.teaser | relative_url }}{% else %}{{ page.header.teaser | prepend: '/images/' | relative_url }}{% endif %}" alt="{{ page.title }}" class="publication__image">
           </div>
         {% endif %}
 

@@ -1,5 +1,3 @@
-{% include base_path %}
-
 {% assign all_single_pages = site.pages | where: "layout", "single" %}
 {% assign research_pages = '' | split: '' %}
 {% for item in all_single_pages %}
@@ -28,13 +26,13 @@
 
 <nav class="pagination">
   {% if prev_page %}
-    <a href="{{ base_path }}{{ prev_page.permalink }}" class="pagination--pager" title="{{ prev_page.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+    <a href="{{ prev_page.permalink | relative_url }}" class="pagination--pager" title="{{ prev_page.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
   {% else %}
     <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
   {% endif %}
   
   {% if next_page %}
-    <a href="{{ base_path }}{{ next_page.permalink }}" class="pagination--pager" title="{{ next_page.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    <a href="{{ next_page.permalink | relative_url }}" class="pagination--pager" title="{{ next_page.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
   {% else %}
     <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
   {% endif %}

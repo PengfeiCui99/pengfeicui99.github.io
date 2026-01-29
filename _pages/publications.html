@@ -9,8 +9,6 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
-
 <!-- Search and Filter Controls -->
 <div class="publications-filter-container">
   <!-- Single Row: Search, Research Objects, Journal/Conference/Preprint, Year, All Authors -->
@@ -74,7 +72,7 @@ author_profile: true
   {% endfor %}
 </div>
 
-<script src="{{ base_path }}/assets/js/publications-filter.js"></script>
+<script src="{{ '/assets/js/publications-filter.js' | relative_url }}"></script>
 
 
 

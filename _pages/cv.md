@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <style>
 .cv-pdf-button {
   position: absolute;
